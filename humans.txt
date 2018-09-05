@@ -1,13 +1,5 @@
 /* TEAM */
-Lead: Dan Allen
-Site: https://github.com/mojavelinux
-Twitter: @mojavelinux
-From: Denver, CO
 
-Lead: Sarah White
-Site: https://gitlab.com/graphitefriction
-Twitter: @carbonfray
-From: Denver, CO
 
 /* SITE */
 Language: English
